@@ -22,7 +22,7 @@ public class Ch6Ex1 {
 		if(str1.equals(str3))
 			System.out.println("str1과 str3는 같습니다!!");
 		else
-			System.out.println("str1과 str3는 같지 않습니다!!");
+			System.out.println("str1과 str3는 같지 않습니다!!!");
 		
 		System.out.println("num1+30 = " + num1 + 30);
 		System.out.println("str1의 길이 : " + str1.length());
